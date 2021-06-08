@@ -1,0 +1,15 @@
+.quess{
+  margin-top: 10px;
+
+  margin-left: 25px;
+  padding:0px !important;
+  font-size:150px;
+  width:238px;
+  height: 300px;
+  text-align: center;
+}
+
+.fa-plus{
+  color:gray;
+  margin-right:50px;
+}

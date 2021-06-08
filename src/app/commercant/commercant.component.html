@@ -1,0 +1,11 @@
+<tr *ngFor="let or of se">
+
+  <td >{{ or.payload.doc.data().name }}</td>
+</tr>
+
+<div class=" bg-white shadow  quess ">
+  <a  class="align-middle" [routerLink]="['/ajoutquestionnaire']" >
+      <i style="margin:auto;" class="fa fa-plus"></i>
+  </a>
+</div>
+
